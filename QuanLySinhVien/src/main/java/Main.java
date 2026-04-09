@@ -1,7 +1,7 @@
 import controller.LoginController;
 import view.LoginView;
 
-public class Main {
+public class   Main {
     public static void  main(String[] args){
 //        User user = new User("admin","123");
 //
